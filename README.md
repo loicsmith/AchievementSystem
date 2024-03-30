@@ -16,8 +16,53 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 4. Démarrer votre serveur
 
 ## Fonctionnalités 
-W.I.P.
+**__Succès par rapport au temps de jeu :__**
+
+- 1h de jeu : Noob
+- 2h de jeu : Débutant
+- 5h de jeu : Explorateur
+- 20h de jeu : Fou
+- 50h de jeu : Addict
+- 100h de jeu : Pionnier
+- 500h de jeu : Conquérant
+- 1000h de jeu : Vers l'infini et au-delà ! 
+
+**__Succès par rapport au nombre d'objets achetés :__**
+
+- 1.500€ objets : Éclaireur 
+- 5.000€ objets : Virtuose du shopping
+- 15.000€ objets : Magicien des boutiques
+- 50.000€ objets : Gourou
+- 100.000€ objets : Champion
+- 250.000€ objets : Seigneur des bonnes affaires
+- 500.000 objets : Empereur des achats
+
+**__Succès par rapport à la quantité de drogue vendues :__**
+
+- 5 plantes : Apprenti Cultivateur
+- 25 plantes : Cultivateur en herbe
+- 100 plantes : Cultivateur débutant
+- 500 plantes : Cultivateur expert
+- 5.000 plantes : Cultivateur expérimenté
+- 15.000 plantes : Cultivateur professionnels
+- 50.000 plantes : Baron de la cultivation
+
+**__Succès par rapport au montant de drogue vendues :__**
+
+- 500€ : Petit dealer
+- 5.000€ : Dealer
+- 15.000€ : Mûle
+- 50.000€ :  Trafiquant en herbe
+- 100.000€ : Trafiquant
+- 250.000€ :  Distributeur en devenir
+- 500.000€ : Distributeur
+- 1.000.000€ : Baron de la drogue
+
+**__Succès autres :__**
+
+- ???
+- ???
 
 - ## Commandes
 
-/Achievement (ou touche AAMenu, catégorie interaction): permet d'ouvrir le menu des succès ainsi que le classement.
+/achievement (ou touche AAMenu, catégorie interaction): permet d'ouvrir le menu des succès ainsi que le classement.
