@@ -65,4 +65,4 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 - ## Commandes
 
-/achievement (ou touche AAMenu, catégorie interaction): permet d'ouvrir le menu des succès ainsi que le classement.
+/achievement (ou touche AAMenu, catégorie documents): permet d'ouvrir le menu des succès ainsi que le classement.
